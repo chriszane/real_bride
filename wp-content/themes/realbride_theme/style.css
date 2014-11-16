@@ -1,0 +1,10 @@
+/*
+* Theme Name: Real Bride
+*/
+
+#container {
+	width: 996px;
+	height: 600px;
+	background: blue;
+	margin: 0 auto;
+}
